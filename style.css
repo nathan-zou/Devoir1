@@ -1,0 +1,62 @@
+#header {
+  padding-top: 20px;
+  background-color: white;
+  font-family: 'Cuprum', sans-serif;
+  color: black;
+}
+
+#header h1 {
+  padding-top:17px;
+}
+
+p {
+  font-family: 'open sans';
+}
+
+#header a{text-decoration: none;
+color: grey}
+
+.container {
+  padding-top: 15px;
+  pdding-bottom: 10px;
+}
+
+.img_article img{
+  height: 150px;
+  width: 150px;
+  padding-left: 50px;
+  padding-top: 20px
+}
+
+.img_article2 img{
+  height: 200px;
+  width: auto;
+  text-align:center;
+  border-radius: 10px;
+}
+
+
+.inspiration {
+  text-align: center;
+  font-weight:bold;
+  font-size: 20px
+}
+
+.Article_text {
+  background-color: #959e90; opacity:0.6;
+  padding-top:15px;
+  padding-left:10px;
+  padding-right:10px;
+  padding-bottom:5px;
+  border-radius: 5px;
+  box-shadow: 0px 5px 20px 0px rgba(0,0,0,0.3)
+}
+
+.Article_title {
+  padding-top:10px;
+  padding-bottm: 10px;
+}
+
+h3 {
+  font-family: 'trirong'
+}
